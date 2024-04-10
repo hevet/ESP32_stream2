@@ -1,5 +1,9 @@
+Jedynka               http://stream3.polskieradio.pl:8900/;
+Dwójka                http://mp3.polskieradio.pl:8902/;
+Trójka                http://mp3.polskieradio.pl:8904/;
+Czwórka               http://mp3.polskieradio.pl:8906/;
+PR24 - Polskie Radio  http://mp3.polskieradio.pl:8080/;
 Radio Plus            https://waw.ic.smcdn.pl/4270-1.mp3
-Program III Pol Radia http://mp3.polskieradio.pl:8904
 Radio Zlote Przeboje  https://radiostream.pl/tuba8920-1.mp3
 Mega Radio            http://stream.rcs.revma.com:80/q18ty3qhwzzuv
 Vox FM                https://waw.ic.smcdn.pl/3990-1.mp3
@@ -73,7 +77,4 @@ Atlantic 80s          https://chasbo1978.radioca.st/stream
 Radio Italo Disco     https://broadcast.miami/proxy/italodisco?mp=/stream2/;
 Vinyl Maxi FM         https://stream.laut.fm/vinyl-maxi-fm
 m2o - Dance           https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/m2odance/live.m3u8
-PR1 - Polskie Radio   http://stream3.polskieradio.pl:8900/;
-PR2 - Polskie Radio   http://mp3.polskieradio.pl:8902/;
-PR24 - Polskie Radio  http://mp3.polskieradio.pl:8080/;
 Radio Disco           https://stream.rcs.revma.com/cvswvmyewzzuv          
