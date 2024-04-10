@@ -1,7 +1,7 @@
-Jedynka               http://stream3.polskieradio.pl:8900/;
-Dwójka                http://mp3.polskieradio.pl:8902/;
-Trójka                http://mp3.polskieradio.pl:8904/;
-Czwórka               http://mp3.polskieradio.pl:8906/;
+PR1                   http://stream3.polskieradio.pl:8900/;
+PR2                   http://mp3.polskieradio.pl:8902/;
+PR3                   http://mp3.polskieradio.pl:8904/;
+PR4                   http://mp3.polskieradio.pl:8906/;
 PR24 - Polskie Radio  http://mp3.polskieradio.pl:8080/;
 Radio Plus            https://waw.ic.smcdn.pl/4270-1.mp3
 Radio Zlote Przeboje  https://radiostream.pl/tuba8920-1.mp3
