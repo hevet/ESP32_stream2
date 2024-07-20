@@ -10,7 +10,7 @@ Radio Zet             http://zet-net-01.cdn.eurozet.pl:8400/
 Eska Bydgoszcz        http://ic1.smcdn.pl/2030-1.mp3
 EskaRock              http://ic1.smcdn.pl/5380-1.mp3
 Eska2                 http://ic2.smcdn.pl:80/1380-1.mp3
-Radio Plus Bydg.           http://pl05.cdn.eurozet.pl/plu-bdg.mp3
+Radio Plus Bydgoszcz  http://pl05.cdn.eurozet.pl/plu-bdg.mp3
 Radio Zlote Przeboje  https://radiostream.pl/tuba8920-1.mp3
 Mega Radio            http://stream.rcs.revma.com:80/q18ty3qhwzzuv
 Radio Disco           https://stream.rcs.revma.com/cvswvmyewzzuv
@@ -33,8 +33,8 @@ Antyradio Classic     https://n-4-2.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.l
 Antyradio Greatest    https://an03.cdn.eurozet.pl/ANTGRE.mp3
 Eurodance 90          http://www.radiart.eu:8394/autodj
 Eurodance 1           https://stream.laut.fm/eurodance1
-Muzyczne Radio Best   http://stream3.nadaje.com:8600
-Muzyczne Radio        https://stream2.nadaje.com:8017
+Muzyczne Radio Best   http://stream.rcs.revma.com/umvz3dg5072vv
+Muzyczne Radio        http://n37a-eu.rcs.revma.com:80/gzwc1xcq042vv
 Meloradio FM          https://redir.atmcdn.pl/sc/o2/Eurozet/live/meloradio.livx?audio=5
 Weekend FM            http://stream.weekendfm.pl:8000/weekendfm_256kbs.mp3
 Super FM              http://stream.super.fm:8000/superfm.mp3
@@ -47,24 +47,7 @@ Radio Afera           http://poznan5-3.radio.pionier.net.pl:8000/afera.mp3
 Radio Znin            http://stream4.nadaje.com:8052
 EL-Stacja             http://radio.el-stacja.pl:8000/elstacja320mp3
 Radio Classic Rock    http://mp3.polskieradio.pl:8460
-Radio Przeboje PRL    http://mp3.polskieradio.pl:8466
 Radio GRA Torun       http://217.74.72.12/radio_gra
-P8 Pop                https://p8.p4groupaudio.com/P08_MH
-80s80s                https://regiocast.streamabc.net/regc-80s80smweb2517500-mp3-192-1672667
-Heart 80s             https://ice-sov.musicradio.com/Heart80sMP3
-Unsung 80s Radio      https://unsung80s.out.airtime.pro:8000/unsung80s_a
-Mega 80s              https://stream3.radiodienst.de/proxy/mega80s/80s
-Love 80's             https://playoutonestreaming.com/proxy/love80s2?mp=/;
-Oldies FM             https://hit-1.nty.uy/stream
-0N - 80s on Radio     http://0n-70s.radionetz.de:8000/0n-80s.mp3
-1.FM - All Euro 80s   https://strm112.1.fm/80s_90s_mobile_mp3
-113.fm - Awesome 80s  https://113fm-atunwadigital.streamguys1.com/1003
-113.fm - Electrolux   https://113fm-edge1.cdnstream.com/1787_128
-80s Forever Radio     https://premium.shoutcastsolutions.com/radio/8050/64AAC+.mp3
-80s80s - Italo Disco  https://streams.80s80s.de/italohits/mp3-192
-80s80s - Love         https://streams.80s80s.de/love/mp3-192/streams
-Atlantic 80s          https://chasbo1978.radioca.st/stream  
-Radio Italo Disco     https://broadcast.miami/proxy/italodisco?mp=/stream2/;
 Vinyl Maxi FM         https://stream.laut.fm/vinyl-maxi-fm
 m2o - Dance           https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/m2odance/live.m3u8
 Radio Disco           https://stream.rcs.revma.com/cvswvmyewzzuv          
