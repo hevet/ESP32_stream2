@@ -11,7 +11,7 @@ Eska Bydgoszcz        http://ic1.smcdn.pl/2030-1.mp3
 EskaRock              http://ic1.smcdn.pl/5380-1.mp3
 Eska2                 http://ic2.smcdn.pl:80/1380-1.mp3
 Radio Plus Bydgoszcz  http://pl05.cdn.eurozet.pl/plu-bdg.mp3
-Radio Zlote Przeboje  https://radiostream.pl/tuba8920-1.mp3
+Radio Zlote Przeboje  http://radiostream.pl:80/tuba8902-1.mp3
 Radio Pogoda Bydgoszcz http://radiostream.pl/tuba143-1.mp3
 Mega Radio            http://stream.rcs.revma.com:80/q18ty3qhwzzuv
 Radio Disco           https://stream.rcs.revma.com/cvswvmyewzzuv
@@ -48,5 +48,9 @@ EL-Stacja             http://radio.el-stacja.pl:8000/elstacja320mp3
 Radio Classic Rock    http://mp3.polskieradio.pl:8460
 Radio GRA Torun       http://217.74.72.12/radio_gra
 Vinyl Maxi FM         https://stream.laut.fm/vinyl-maxi-fm
-m2o - Dance           https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/m2odance/live.m3u8
-Radio Disco           https://stream.rcs.revma.com/cvswvmyewzzuv          
+Radio Disco           https://stream.rcs.revma.com/cvswvmyewzzuv 
+ANTYRADIO	            http://an01.cdn.eurozet.pl/ant-waw.mp3
+Radio 90	            http://streams.radio90.pl:8000/radio90_128kbps_stereo.mp3
+Radio 357	            http://n16a-eu.rcs.revma.com:80/an1ugyygzk8uv
+Radio Vanessa	        http://s1.slotex.pl:7358/;
+RMF24.pl	            http://rmfstream1.interia.pl:80/rmf_24
